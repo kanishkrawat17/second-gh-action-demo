@@ -1,4 +1,4 @@
-name: Output Manually
+name: Github context and run workflow Manually
 on: workflow_dispatch
 jobs:
   info:
